@@ -1,1 +1,1 @@
-# hola mundo, estamos aprendiendo git, en la rama testing
+# hola mundo, estamos aprendiendo git
